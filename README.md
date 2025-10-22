@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Crescent!
 
 ✨ **About Me**  
-- 🔭 Currently building my [portfolio](https://crescentech-portfolio-site.vercel.app/)  
+- 🔭 Currently building a new [portfolio](https://crescentech-portfolio-site.vercel.app/)  
 - 🌱 Learning: **Jest**, **Next.js**, **React**, **Vue**, **AWS**, **Python**, **Linux**, **C#**, **Electron.js**  
 - 👯 Open to collaborating on **almost anything**!  
 - 💬 Ask me about **JavaScript**  
