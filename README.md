@@ -13,7 +13,7 @@
 
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=FFFFFF)](https://bsky.app/profile/rockarmy321)
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/Crescent-136)
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=Twittuh&logoColor=white)](https://x.com/rockarmy321)
+[![X](https://img.shields.io/badge/Twittuh-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/rockarmy321)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:verasamoma@gmail.com)
 
 ---
