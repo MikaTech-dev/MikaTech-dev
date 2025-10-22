@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Crescent!
+# 👋 Hi, I'm Ikenna!
 
 ✨ **About Me**  
 - 🔭 Currently building a new [portfolio](https://crescentech-portfolio-site.vercel.app/)  
