@@ -2,7 +2,7 @@
 
 ✨ **About Me**  
 - 🔭 Currently building a new [portfolio](https://crescentech-portfolio-site.vercel.app/)  
-- 🌱 Learning: **Jest**, **Next.js**, **React**, **Vue**, **AWS**, **Python**, **Linux**, **C#**, **Electron.js**  
+- 🌱 Learning: **Jest**, **Next.js**, **React**, **Vue**, **AWS S3**, **Python**, ML/AI, **Linux**
 - 👯 Open to collaborating on **almost anything**!  
 - 💬 Ask me about **JavaScript**  
 - 📫 Reach me at: **verasamoma@gmail.com**
