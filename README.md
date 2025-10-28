@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ikenna!
 
 ✨ **About Me**  
-- 🔭 Currently building a new [portfolio](https://crescentech-portfolio-site.vercel.app/)  
+- 🔭 Currently building a new [portfolio](https://mikatech.name.ng)  
 - 🌱 Learning: **Jest**, **Next.js**, **React**, **Vue**, **AWS S3**, **Python**, ML/AI, **Linux**
 - 👯 Open to collaborating on **almost anything**!  
 - 💬 Ask me about **JavaScript**  
