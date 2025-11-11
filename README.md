@@ -2,7 +2,7 @@
 
 ✨ **About Me**  
 - 🔭 Currently building a new [portfolio](https://mikatech.name.ng)  
-- 🌱 Learning: **Jest**, **Next.js**, **React**, **Vue**, **AWS S3**, **Python**, ML/AI, **Linux**
+- 🌱 Learning: **Jest**, **Next.js**, **React**, **Vue**, **AWS S3**, **Python**, **ML/AI**, **Linux**
 - 👯 Open to collaborating on **almost anything**!  
 - 💬 Ask me about **JavaScript**  
 - 📫 Reach me at: **verasamoma@gmail.com**
