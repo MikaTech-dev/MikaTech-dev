@@ -20,62 +20,39 @@
 
 ## Tech Stack
 
-### Frontend Core
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
-[![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)](https://www.w3.org/Style/CSS/specs.en.html)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://262.ecma-international.org/16.0/index.html)
-
-### Frontend Frameworks & UI Libraries
-[![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
-[![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](https://vuejs.org/)
-[![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev/)
-
-### Build Tools & Package Managers
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-
-### Backend & Full-Stack
-[![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en)
-[![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-
-### Templating & CMS
-[![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)](https://ejs.co/)
-[![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://wordpress.com/)
-
-### Databases
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com/)
-[![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-
-### Authentication
-[![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)](https://www.npmjs.com/package/jsonwebtoken)
-[![BCrypt](https://img.shields.io/badge/BCrypt-green?style=for-the-badge&logo=adblock)](https://www.npmjs.com/package/bcrypt)
-
-### Deployment & Hosting
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white)
-![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![PipeOps](https://custom-icon-badges.demolab.com/badge/PipeOps-purple.svg?style=for-the-badge&logo=feed-rocket&logoColor=white&logoSource=feather)
-
-### Version Control
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-### Design & Media Tools
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe&logoColor=white)
-![PhotoPea](https://img.shields.io/badge/PhotoPea-18a497.svg?style=for-the-badge&logo=Photopea&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
----
+<div align="center">
+  <a href="https://html.spec.whatwg.org/" target="_blank"><img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" height="40"/></a>
+  <a href="https://www.w3.org/Style/CSS/specs.en.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="40"/></a>
+  <a href="https://262.ecma-international.org/" target="_blank"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" height="40"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.simpleicons.org/nextdotjs/white" alt="Next.js" height="40"/></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" height="40"/></a>
+  <a href="https://vuejs.org/" target="_blank"><img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue" height="40"/></a>
+  <a href="https://vite.dev/" target="_blank"><img src="https://cdn.simpleicons.org/vite/646CFF" alt="Vite" height="40"/></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" height="40"/></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://cdn.simpleicons.org/express/white" alt="Express" height="40"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" height="40"/></a>
+  <a href="https://ejs.co/" target="_blank"><img src="https://img.icons8.com/color/48/000000/ejs.png" alt="EJS" height="40"/></a>
+  <a href="https://wordpress.com/" target="_blank"><img src="https://cdn.simpleicons.org/wordpress/21759B" alt="WordPress" height="40"/></a>
+  <a href="https://mongodb.com/" target="_blank"><img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" height="40"/></a>
+  <a href="https://postgresql.org/" target="_blank"><img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" height="40"/></a>
+  <a href="https://jwt.io/" target="_blank"><img src="https://cdn.simpleicons.org/jsonwebtokens/white" alt="JWT" height="40"/></a>
+  <a href="https://vercel.com/" target="_blank"><img src="https://cdn.simpleicons.org/vercel/white" alt="Vercel" height="40"/></a>
+  <a href="https://render.com/" target="_blank"><img src="https://cdn.simpleicons.org/render/white" alt="Render" height="40"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="40"/></a>
+  <a href="https://www.cloudflare.com/" target="_blank"><img src="https://cdn.simpleicons.org/cloudflare/F38020" alt="Cloudflare" height="40"/></a>
+  <a href="https://pipeops.io" target="_blank"><img src="./pipeops_logo.svg" alt="PipeOps" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.simpleicons.org/git/F05032" alt="Git" height="40"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://cdn.simpleicons.org/github/white" alt="GitHub" height="40"/></a>
+  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" alt="After Effects" height="40"/></a>
+  <a href="https://www.photopea.com/" target="_blank"><img src="https://cdn.simpleicons.org/photopea/18A497" alt="PhotoPea" height="40"/></a>
+  <a href="https://www.canva.com/" target="_blank"><img src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva" height="40"/></a>
+</div>
 
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mikatech-dev&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false" height="150" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=Mikatech-dev&theme=midnight-purple&hide_border=true" height="150" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikatech-dev&theme=midnight-purple&hide_border=true&layout=compact" height="150" />
 </div>
 
