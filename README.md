@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Ikenna!
 
 ✨ **About Me**  
-- 🔭 Currently building a new [portfolio](https://mikatech.name.ng)  
-- 🌱 Learning: **Typescript** **Jest**, **Next.js**, **React**, **Vue**, **AWS S3**, **Python**, **ML/AI**, **Linux**
+- 🔭 Currently building my new [portfolio](https://mikatech.name.ng)  
+- 🌱 Learning: **React**, **Typescript**, **Next.js**, **Vue**, **Jest**, **AWS S3**, **Python**, **ML/AI**, **Linux**
 - 👯 Open to collaborating on **almost anything**!  
 - 💬 Ask me about **JavaScript**  
 - 📫 Reach me at: **verasamoma@gmail.com**
@@ -15,6 +15,7 @@
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/Crescent-136)
 [![X](https://img.shields.io/badge/Twittuh-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/rockarmy321)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:verasamoma@gmail.com)
+[![Porfolio](https://img.shields.io/badge/Portfolio-800080?style=for-the-badge&logo=wolfram&logoColor=white)](https://mikatech.name.ng)
 
 ---
 
