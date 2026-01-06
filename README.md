@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ikenna!
 
 ✨ **About Me**  
-- 🔭 Currently building my new [portfolio](https://mikatech.name.ng)  
+- 🔭 Currently building a [AI mini assessment and grading API](https://github.com/MikaTech-dev/mini-assessment-engine)
 - 🌱 Learning: **React**, **Typescript**, **Next.js**, **Vue**, **Jest**, **AWS S3**, **Python**, **ML/AI**, **Linux**
 - 👯 Open to collaborating on **almost anything**!  
 - 💬 Ask me about **JavaScript**  
