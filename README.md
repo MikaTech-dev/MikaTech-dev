@@ -33,6 +33,9 @@
   <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" height="40"/></a>
   <a href="https://expressjs.com/" target="_blank"><img src="https://cdn.simpleicons.org/express/white" alt="Express" height="40"/></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" height="40"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.simpleicons.org/django/092E20" alt="Django" height="40"/></a>
+  <a href="https://swagger.io/" target="_blank"><img src="https://cdn.simpleicons.org/swagger/85EA2D" alt="Swagger" height="40"/></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman" height="40"/></a>
   <a href="https://ejs.co/" target="_blank"><img src="https://img.icons8.com/color/48/000000/ejs.png" alt="EJS" height="40"/></a>
   <a href="https://wordpress.com/" target="_blank"><img src="https://cdn.simpleicons.org/wordpress/21759B" alt="WordPress" height="40"/></a>
   <a href="https://mongodb.com/" target="_blank"><img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" height="40"/></a>
@@ -47,7 +50,6 @@
   <a href="https://github.com/" target="_blank"><img src="https://cdn.simpleicons.org/github/white" alt="GitHub" height="40"/></a>
   <a href="https://www.adobe.com/products/aftereffects.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" alt="After Effects" height="40"/></a>
   <a href="https://www.photopea.com/" target="_blank"><img src="https://cdn.simpleicons.org/photopea/18A497" alt="PhotoPea" height="40"/></a>
-  <a href="https://www.canva.com/" target="_blank"><img src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva" height="40"/></a>
 </div>
 
 ## GitHub Stats
