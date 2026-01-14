@@ -4,7 +4,7 @@
 - 🔭 Currently building an open source, AI-powered [mini assessment and grading API](https://github.com/MikaTech-dev/mini-assessment-engine)
 - 🌱 Learning: **React**, **Typescript**, **Next.js**, **Vue**, **Jest**, **AWS S3**, **Python**, **ML/AI**, **Linux**
 - 👯 Open to collaborating on **almost anything**!  
-- 💬 Ask me about **JavaScript**  
+- 💬 Ask me about **JavaScript**, **Python**
 - 📫 Reach me at: **verasamoma@gmail.com**
 
 ---
