@@ -5,7 +5,7 @@
 - 🌱 Learning: **React**, **Typescript**, **Next.js**, **Vue**, **Jest**, **AWS S3**, **Python**, **ML/AI**, **Linux**
 - 👯 Open to collaborating on **almost anything**!  
 - 💬 Ask me about **JavaScript**, **Python**
-- 📫 Reach me at: **verasamoma@gmail.com**
+- 📫 You can contact me via any of the media in the banners below!
 
 ---
 
@@ -54,10 +54,8 @@
 
 ## GitHub Stats
 
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Mikatech-dev&theme=midnight-purple&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikatech-dev&theme=midnight-purple&hide_border=true&layout=compact" height="150" />
-</div>
+[![GitHub Streak](https://github-streak-stats-ruby.vercel.app/?user=Mikatech-dev&theme=midnight-purple&hide_border=true&border_radius=4.5&locale=en&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=170&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false)](https://mikatech.name.ng/)
+[![Top Languages](https://helio-github-stats.vercel.app/api/top-langs?username=Mikatech-dev&layout=compact&stats_format=percentages&theme=dark&hide_border=true&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Top+Languages&langs_count=6)](https://mikatech.name.ng/)
 
 ---
 
