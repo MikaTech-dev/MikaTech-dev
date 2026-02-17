@@ -58,15 +58,6 @@
   <a href="https://nice-readme.vercel.app/top-langs" target="_blank" rel="noopener noreferrer"><img src="https://helio-github-stats.vercel.app/api/top-langs?username=Mikatech-dev&layout=compact&stats_format=percentages&theme=dark&hide_border=true&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Top+Languages" alt="Top Languages" width="466" height="auto" loading="lazy" /></a>
 
 </div>
----
-
-## Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" width="400" />
-</div>
-
----
 
 ## ☕ Support Me
 
