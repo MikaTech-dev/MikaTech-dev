@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ikenna!
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair&weight=900&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+my+name+is+Ken+%3A)" alt="Typing SVG" /></a>
 
 ✨ **About Me**  
 - 🔭 Currently building an open source, AI-powered [mini assessment and grading API](https://github.com/MikaTech-dev/mini-assessment-engine)
