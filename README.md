@@ -1,8 +1,11 @@
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair&weight=900&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+my+name+is+Ken+%3A)" alt="Typing SVG" /></a>
+# 
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair&weight=900&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+my+name+is+Ken+%3A)" alt="Typing SVG" /></a>
+</div>
 
 ✨ **About Me**  
 - 🔭 Currently building an open source, AI-powered [mini assessment and grading API](https://github.com/MikaTech-dev/mini-assessment-engine)
-- 🌱 Learning: **React**, **Typescript**, **Next.js**, **Vue**, **Jest**, **AWS S3**, **Python**, **ML/AI**, **Linux**
+- 🌱 Learning: **Typescript**, **React**, **Next.js**, **Vue**, **Jest/Supertest**, **AWS/Azure**, **Python**, **ML/AI**, **Linux**
 - 👯 Open to collaborating on **almost anything**!  
 - 💬 Ask me about **JavaScript**, **Python**
 - 📫 You can contact me via any of the media in the banners below!
@@ -52,14 +55,12 @@
   <a href="https://www.photopea.com/" target="_blank"><img src="https://cdn.simpleicons.org/photopea/18A497" alt="PhotoPea" height="40"/></a>
 </div>
 
-## GitHub Stats
+## Personal Motivator
 <div align="center">
   <a href="https://mikatech.name.ng/" target="_blank" rel="noopener noreferrer"><img src="https://github-streak-stats-ruby.vercel.app/?user=Mikatech-dev&theme=midnight-purple&hide_border=true&border_radius=4.5&locale=en&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=170&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false" alt="GitHub Streak de Mikatech-dev" width="466" height="170" loading="lazy" /></a>
-  <a href="https://nice-readme.vercel.app/top-langs" target="_blank" rel="noopener noreferrer"><img src="https://helio-github-stats.vercel.app/api/top-langs?username=Mikatech-dev&layout=compact&stats_format=percentages&theme=dark&hide_border=true&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Top+Languages" alt="Top Languages" width="466" height="auto" loading="lazy" /></a>
-
 </div>
 
 ## ☕ Support Me
 
-If you'd like to support my work, I’d really appreciate it!  
+If you'd like to support my work, I’d really appreciate it!
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rockarmy321)
