@@ -57,7 +57,7 @@
 
 ## Personal Motivator
 <div align="center">
-  <a href="https://mikatech.name.ng/" target="_blank" rel="noopener noreferrer"><img src="https://github-streak-stats-ruby.vercel.app/?user=Mikatech-dev&theme=midnight-purple&hide_border=true&border_radius=4.5&locale=en&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=170&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false" alt="GitHub Streak de Mikatech-dev" width="466" height="170" loading="lazy" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mikatech-dev&theme=midnight-purple&hide_border=true&timezone=WAT&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </div>
 
 ## ☕ Support Me
