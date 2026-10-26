@@ -46,7 +46,7 @@
   <a href="https://jwt.io/" target="_blank"><img src="https://cdn.simpleicons.org/jsonwebtokens/white" alt="JWT" height="40"/></a>
   <a href="https://vercel.com/" target="_blank"><img src="https://cdn.simpleicons.org/vercel/white" alt="Vercel" height="40"/></a>
   <a href="https://render.com/" target="_blank"><img src="https://cdn.simpleicons.org/render/white" alt="Render" height="40"/></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="40"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain.svg" alt="AWS" height="40"/></a>
   <a href="https://www.cloudflare.com/" target="_blank"><img src="https://cdn.simpleicons.org/cloudflare/F38020" alt="Cloudflare" height="40"/></a>
   <a href="https://pipeops.io" target="_blank"><img src="./pipeops_logo.svg" alt="PipeOps" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.simpleicons.org/git/F05032" alt="Git" height="40"/></a>
